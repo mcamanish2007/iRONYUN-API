@@ -1,4 +1,4 @@
-var frisby = require('C:/Users/IY0034/AppData/Roaming/npm/node_modules/frisby');
+var frisby = require('C:/Users/root/AppData/Roaming/npm/node_modules/frisby');
 var helpers = require('./helper');
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
