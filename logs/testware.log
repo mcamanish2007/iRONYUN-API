@@ -1,0 +1,81 @@
+[2015-10-26 14:18:55.204] [INFO] CityEyes_API - Going to run User login Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 14:18:55.214] [INFO] CityEyes_API - Going to run User login Api Test.
+[2015-10-26 14:21:40.219] [INFO] CityEyes_API - Going to run User login Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 14:21:40.229] [INFO] CityEyes_API - Going to run User login Api Test.
+[2015-10-26 14:50:35.725] [INFO] CityEyes_API - Going to run User Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 14:50:35.729] [INFO] CityEyes_API - Going to run User Login Api Test.
+[2015-10-26 14:55:16.099] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 14:55:16.102] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 14:55:16.105] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 14:55:32.887] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 14:55:32.890] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 14:55:32.893] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:01:14.959] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:01:14.959] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:01:14.969] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:02:50.276] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:02:50.276] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:02:50.276] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:02:59.360] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:02:59.360] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:02:59.360] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:06:43.750] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:06:43.760] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:06:43.760] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:07:24.391] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:07:24.401] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:10:32.071] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:10:32.071] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:10:32.071] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:18:12.784] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:18:12.788] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:18:12.790] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:19:19.094] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:19:19.094] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:19:19.094] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:20:37.251] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:20:37.261] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:20:37.261] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:22:26.788] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:22:26.788] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:22:26.788] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:22:56.925] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:22:56.935] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:22:56.935] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:23:07.284] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:23:07.294] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:23:07.294] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:24:49.251] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:24:49.261] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:24:49.261] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:26:53.631] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:26:53.641] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:26:53.641] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:26:53.941] [INFO] CityEyes_API - The id for the created camera group is: 233
+[2015-10-26 15:29:57.630] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:29:57.630] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:29:57.960] [INFO] CityEyes_API - The id for the created camera group is: 234
+[2015-10-26 15:37:26.620] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:37:26.620] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:37:26.860] [INFO] CityEyes_API - The id for the created camera group is: 235
+[2015-10-26 15:38:17.871] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:38:17.881] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:38:17.881] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:38:18.131] [INFO] CityEyes_API - The id for the created camera group is: 236
+[2015-10-26 15:38:22.579] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:38:22.579] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:38:22.579] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:38:22.879] [INFO] CityEyes_API - The id for the created camera group is: 237
+[2015-10-26 15:39:48.196] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:39:48.206] [INFO] CityEyes_API - Going to run Create Camera Group Api Test.
+[2015-10-26 15:39:48.206] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:39:48.516] [INFO] CityEyes_API - The id for the created camera group is: 238
+[2015-10-26 15:39:48.516] [INFO] CityEyes_API - Going to run delete camera group api test.
+[2015-10-26 15:45:38.974] [INFO] CityEyes_API - Going to run Camera Group Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:45:38.974] [INFO] CityEyes_API - Going to run create camera group api test.
+[2015-10-26 15:45:38.984] [INFO] CityEyes_API - Going to run Ensure Camera Group Api Test.
+[2015-10-26 15:45:39.314] [INFO] CityEyes_API - The id for the created camera group is: 239
+[2015-10-26 15:45:39.314] [INFO] CityEyes_API - Going to run delete camera group api test.
+[2015-10-26 15:49:28.711] [INFO] CityEyes_API - Going to run User Api Tests on https://172.16.22.165/CityEyes/rest/
+[2015-10-26 15:49:28.711] [INFO] CityEyes_API - Going to run User Login Api Test.
+[2015-10-26 15:49:28.851] [INFO] CityEyes_API - The user login status is: true
